@@ -1,6 +1,5 @@
 site_name: Funmorning Transit
 site_url: https://funmoring46.github.io/FunmorningTransit
-site_url: https://funmoring46.github.io/FunmorningTransit
 theme:
   name: material
   language: en
@@ -39,8 +38,8 @@ nav:
 extra:
   alternate:
     - name: English
-      link: https://funmoring46.github.io/FunmorningTransit/
+      link: /en/
       lang: en
     - name: 简体中文
-      link: https://funmoring46.github.io/FunmorningTransit/zh/
+      link: /zh/
       lang: zh
