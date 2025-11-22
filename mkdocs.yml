@@ -24,10 +24,14 @@ theme:
   features:
     - navigation.indexes
     - navigation.footer
+    - toc.integrate
   
 nav:
   - Welcome to funmorning transit: index.md
   - How to play: howtoplay.md
+  - funmorning公共交通：
+    - zh/index.md
+    - 玩法: zh/howtoplay.md
 
 extra:
   alternate:
