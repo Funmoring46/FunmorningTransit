@@ -1,4 +1,5 @@
 site_name: Funmorning Transit
+site_url: https://funmoring46.github.io/FunmorningTransit/
 theme:
   name: material
   language: en
@@ -24,15 +25,6 @@ theme:
     - navigation.indexes
     - navigation.footer
     - toc.integrate
-  
-nav:
-  - Welcome to funmorning transit: index.md
-  - How to play: howtoplay.md
-  - About the transportation: aboutthetransp.md
-  - Stations: stations.md
-  - funmorning公共交通:
-    - zh/index.md
-    - 玩法: zh/howtoplay.md
 
 plugins:
   - search
