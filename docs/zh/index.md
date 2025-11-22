@@ -1,3 +1,3 @@
 # 欢迎乘坐funmorning公共交通
 
-Work in Progress
+这个网站会告诉你这个minecraft地图是怎么个回事。你本站因该是重生点站。
