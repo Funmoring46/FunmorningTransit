@@ -30,6 +30,8 @@ theme:
 nav:
   - Welcome to funmorning transit: index.md
   - How to play: howtoplay.md
+  - About the transportation: aboutthetransp.md
+  - Stations: stations.md
   - funmorning公共交通:
     - zh/index.md
     - 玩法: zh/howtoplay.md
