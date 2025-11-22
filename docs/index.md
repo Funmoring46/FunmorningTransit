@@ -1,8 +1,4 @@
-# funmorning公共交通へようこそ
+# Welcome to funmorning transit
 
-!!! info "翻訳"
-
-    このウェブサイトは ChatGPT を使って翻訳されています。
-
-このサイトでは、このマインクラフトの地図がどのようなものかを紹介します。
-あなたの現在の駅はスポーン駅のはずです。
+This short website/tutorial will show you an introduction of what this “transit world" is.
+Your current station should be spawn station.
