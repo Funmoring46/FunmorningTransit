@@ -1,5 +1,5 @@
-site_name: My site
-site_url: https://mydomain.org/mysite
+site_name: Funmorning Transit
+site_url: https://sitename.example
 theme:
   name: material
   palette:
@@ -18,10 +18,17 @@ theme:
         name: Light mode
       primary: blue
       accent: deep purple
+  features:
+    - navigation.indexes
+  
+nav:
+  - Welcome to funmorning transit: index.md
+  - How to play: howtoplay.md
+
 extra:
   alternate:
     - name: English
-      link: / 
+      link: /
       lang: en
     - name: 简体中文
       link: /zh/
