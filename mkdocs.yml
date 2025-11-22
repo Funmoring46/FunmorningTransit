@@ -23,6 +23,7 @@ theme:
       accent: deep purple
   features:
     - navigation.indexes
+    - navigation.footer
   
 nav:
   - Welcome to funmorning transit: index.md
