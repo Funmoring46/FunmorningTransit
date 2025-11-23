@@ -6,7 +6,7 @@ Mountains Station (Chinese: 山站) is a station on Line 1, Line 2, Home APM, Ai
 
 ## History
 
-Named after the mountain near the station, it was one of the first stations in operation. It was opened on the [Home Line]("Now called Home APM") and the Fast line where it only had a first floor. Around the start of September line 1 was created and a seperate station called Mountains Railway Station was created. More and more line were created and then Mountains Railway Station was then connected with Mountains Station due to confusion. Soon after this station become a major transfer station.
+Named after the mountain near the station, it was one of the first stations in operation. It was opened on the Home Line (*Now called Home APM*) and the Fast line where it only had a first floor. Around the start of September line 1 was created and a seperate station called Mountains Railway Station was created. More and more line were created and then Mountains Railway Station was then connected with Mountains Station due to confusion. Soon after this station become a major transfer station.
 
 ## Exits
 
