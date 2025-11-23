@@ -6,6 +6,7 @@ Line 1 (funmorning metro):
 * Mountains
 * Lakeside Forest
 * Crumble Mountain
+* Thompson Road (Under Construction)
 
 Line 2 (funmorning metro):
 * Spawn
