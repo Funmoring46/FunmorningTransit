@@ -14,7 +14,7 @@ theme:
         icon: material/weather-sunny
         name: Dark mode
       primary: orange
-      accent: deep yellow
+      accent: yellow
 
     # Light Mode
     - scheme: default
@@ -40,15 +40,13 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - attr_list
   - md_in_html
-  - pymdownx.superfences
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
-  - attr_list
-  - md_in_html
   - pymdownx.blocks.caption
+  - abbr
+  - pymdownx.snippets
 
 plugins:
   - search
