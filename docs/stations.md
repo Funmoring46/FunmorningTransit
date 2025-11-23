@@ -33,8 +33,8 @@ Village Express (funmorning metro):
 - Forest  
 - Village  
 
-Mountains-Kiyama Railway (Lanna Railway): 
-Any station with the :material-train: icon is stopped on the Mountains Kiyama Railway Express.
+Mountains-Kiyama Railway (Lanna Railway):  
+Any station with the :material-train: icon is stopped on the Mountains Kiyama Railway Express.  
 - Mountains :material-train:  
 - Shuliu  
 - Kuangzhen :material-train:  
