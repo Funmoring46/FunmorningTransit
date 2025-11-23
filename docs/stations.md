@@ -1,6 +1,6 @@
-# Stations
+# Stations and Lines
 
-Here is the list of all the stations in my transit world. They are categorized by what line and area they are in. (company names are in parantheses)
+Here is the list of all the stations and lines in my transit world. They are categorized by what area they are in. Click on the station/line for more detailed explanation. (company names are in parantheses)
 
 Line 1 (funmorning metro):
 * Mountains
