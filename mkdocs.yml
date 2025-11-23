@@ -66,3 +66,11 @@ plugins:
           name: 日本語
           build: true
           site_name: "funmorning公共交通"
+
+nav:
+  - index.md
+  - howtoplay.md
+  - aboutthetransp.md
+  - stations.md
+  - Stations/车站/駅:
+      - stations/mountains.md
