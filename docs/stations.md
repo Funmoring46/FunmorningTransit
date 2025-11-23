@@ -3,14 +3,14 @@
 Here is the list of all the stations and lines in my transit world. They are categorized by what area they are in. Click on the station/line for more detailed explanation. (company names are in parantheses)
 
 Line 1 (funmorning metro):  
-- [Mountains](../stations/mountains.md)  
+- [Mountains](../stations/mountains/)  
 - Lakeside Forest  
 - Crumble Mountain  
 - Thompson Road (Under Construction)  
 
 Line 2 (funmorning metro):  
 - Spawn  
-- [Mountains](../stations/mountains.md)  
+- [Mountains](../stations/mountains/)  
 
 Line 3 (funmorning metro):  
 - Beach  
@@ -18,14 +18,14 @@ Line 3 (funmorning metro):
 
 Home APM (funmorning metro):  
 - Home  
-- [Mountains](../stations/mountains.md)  
+- [Mountains](../stations/mountains/)  
 
 Airport APM (funmorning metro):  
 - Airport Terminal 1  
-- [Mountains](../stations/mountains.md)  
+- [Mountains](../stations/mountains/)  
 
 Fast Line (funmorning metro):  
-- [Mountains](../stations/mountains.md)  
+- [Mountains](../stations/mountains/)  
 - View  
 - Forest  
 
@@ -35,18 +35,18 @@ Village Express (funmorning metro):
 
 Mountains-Kiyama Railway (Lanna Railway):  
 Any station with the :material-train: icon is stopped on the Mountains Kiyama Railway Express.  
-- [Mountains](../stations/mountains.md) :material-train:  
+- [Mountains](../stations/mountains/) :material-train:  
 - Shuliu  
 - Kuangzhen :material-train:  
 - Norton Forest  
 - Kiyama :material-train:  
 
 Mountains-Kuangzhen East Railway (Lanna Railway):  
-- [Mountains](../stations/mountains.md)  
+- [Mountains](../stations/mountains/)  
 - Kuangzhen East  
 
 Mountains-Sandi Railway (Lanna Railway):  
-- [Mountains](../stations/mountains.md)  
+- [Mountains](../stations/mountains/)  
 - Sandi  
 
 Kuangzhen-Boston Railway (Kuangzhen Railway):  
