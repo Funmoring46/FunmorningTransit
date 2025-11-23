@@ -33,8 +33,8 @@ Village Express (funmorning metro):
 - Forest  
 - Village  
 
-Mountains-Kiyama Railway (Lanna Railway): 
-Any station with the :material-train: icon is stopped on the Mountains Kiyama Railway Express.
+Mountains-Kiyama Railway (Lanna Railway):  
+Any station with the :material-train: icon is stopped on the Mountains Kiyama Railway Express.  
 - Mountains :material-train:  
 - Shuliu  
 - Kuangzhen :material-train:  
@@ -53,7 +53,7 @@ Kuangzhen-Boston Railway (Kuangzhen Railway):
 - Kuangzhen  
 - Boston  
 
-Kuangzhen-Kuangzhen East Connector (Kuangzhen Railway):  
+Kuangzhen East-Kuangzhen Connector (Kuangzhen Railway):  
 - Kuangzhen East  
 - Kuangzhen  
 
@@ -82,7 +82,7 @@ Second Mountains-Kiyama Railway Extension (Lanna Railway Extention):
 - Kishimidō  
 - Snowveil  
 
-Kishimidō-Tantem Railway (Hanano Railway):  
+Kishimidō-Tantem Railway (Hanano Railway - Sendai Area):  
 - Kishimidō  
 - Shirin-mon  
 - Jungle  
