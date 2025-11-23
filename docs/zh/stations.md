@@ -3,14 +3,14 @@
 以下是我的mc世界中的所有车站和线路，按所属地区分类。点击任意车站或线路可查看更详细的说明。（公司名称在括号中标注）
 
 1号线 (funmorning地铁)：  
-- 山  
+- [山](mountains/)  
 - 河边森林  
 - 渣渣山  
 - 坦森路（暂缓开通）  
 
 2号线（funmorning地铁）：  
 - 重生点  
-- 山  
+- [山](mountains/)  
 
 3号线（funmorning地铁）：  
 - 海滩  
@@ -18,14 +18,14 @@
 
 家APM（funmorning地铁）：  
 - 家  
-- 山  
+- [山](mountains/)  
 
 机场捷运系统（funmorning地铁）：  
 - 机场1航楼  
-- 山  
+- [山](mountains/)  
 
 快线（funmorning地铁）：  
-- 山  
+- [山](mountains/)  
 - 景区  
 - 森林  
 
@@ -35,18 +35,18 @@
 
 山-木山铁路（兰纳铁路）：  
 有:material-train:符号的站名会在山-木山**快**铁路停。  
-- 山 :material-train:  
+- [山](mountains/) :material-train:  
 - 树榴  
 - 矿镇 :material-train:  
 - 诺屯森林  
 - 木山 :material-train:  
 
 山-矿镇东铁路（兰纳铁路）：  
-- 山  
+- [山](mountains/)  
 - 矿镇东  
 
 山-三地铁路（兰纳铁路）：  
-- 山  
+- [山](mountains/)  
 - 三地  
 
 矿镇-波斯顿铁路（矿镇铁路）：
