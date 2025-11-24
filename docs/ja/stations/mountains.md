@@ -2,7 +2,7 @@
 
 ![山駅 A出口](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/mountains.png?raw=true){ width="750" }
 
-山駅（中国語：山駅）は、1号線、2号線、Home APM、Airport APM、Fast Line、山–木山鉄道、山–広鎮東鉄道、山–三地鉄道、そして1番バス路線が乗り入れる駅です。山路エリアに位置し、約8階建ての非常に大きな駅で、多くの路線の主要な終着駅となっています。2025年8月末ごろに開業しました。
+山駅（英語：Mountains Station; 中国語：山站）は、1号線、2号線、Home APM、Airport APM、Fast Line、山–木山鉄道、山–広鎮東鉄道、山–三地鉄道、そして1番バス路線が乗り入れる駅です。山路エリアに位置し、約8階建ての非常に大きな駅で、多くの路線の主要な終着駅となっています。2025年8月末ごろに開業しました。
 
 ## 歴史
 
