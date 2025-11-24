@@ -1,6 +1,6 @@
 # Forest Station
 
-* Not to be confused with Lakeside Forest station *
+Not to be confused with Lakeside Forest station.
 
 No image yet
 
