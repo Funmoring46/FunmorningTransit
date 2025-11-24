@@ -6,7 +6,7 @@ View Station (Chinese: 景区站) is a station on the Fast Line in the Shanlu ar
 
 ## History
 
-It is named after the nice hill view near on the exit of the station and it is one of the stations to open during late August.
+It is named after the nice hill view near on the exit of the station and it is one of the stations to open during late August 2025.
 
 ## Gallery
 
