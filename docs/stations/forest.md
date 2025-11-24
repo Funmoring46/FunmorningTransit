@@ -8,7 +8,7 @@ Forsst Station (Chinese: 森林站) is a station on the Fast Line and the Villag
 
 ## History
 
-It is named after the bamboo forest at on the exit of the station and it is also one of the stations to open during late August.
+It is named after the bamboo forest at on the exit of the station and it is also one of the stations to open during late August 2025.
 
 ## Gallery
 
