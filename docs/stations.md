@@ -27,7 +27,7 @@ Airport APM (funmorning metro):
 Fast Line (funmorning metro):  
 - [Mountains](mountains/)  
 - [View](view/)  
-- Forest  
+- [Forest](view/)  
 
 Village Express (funmorning metro):  
 - Forest  
