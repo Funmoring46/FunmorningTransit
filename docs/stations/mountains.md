@@ -14,4 +14,26 @@ There are three exits, lettered A, B, and C. Exits C is accessible.
 
 ## Gallery
 
-No images yet...
+<figure markdown="span">
+  ![Entrance A](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/entrancea.png?raw=true){ width="500" }
+  <figcaption>Entrance A</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Mountains Railway Area](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/mountainsrailway.png?raw=true){ width="500" }
+  <figcaption>Mountains Railway Area</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Bus Station](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/busstation.png?raw=true){ width="500" }
+  <figcaption>Bus Station</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Business Area](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/businnessarea.png?raw=true){ width="500" }
+  <figcaption>Business Area</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Mountains Station](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/fullview.png?raw=true){ width="500" }
+</figure>
