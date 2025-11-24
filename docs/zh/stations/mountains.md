@@ -13,3 +13,27 @@
 本站有三个出口，A，B和C。C出口是无障碍的。
 
 ## 图片
+
+<figure markdown="span">
+  ![A入口](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/entrancea.png?raw=true){ width="500" }
+  <figcaption>A入口</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![山火车站区域](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/mountainsrailway.png?raw=true){ width="500" }
+  <figcaption>山火车站区域</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![公共汽车站](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/busstation.png?raw=true){ width="500" }
+  <figcaption>公共汽车站</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![商务区域](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/businnessarea.png?raw=true){ width="500" }
+  <figcaption>商务区域</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![山站](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/fullview.png?raw=true){ width="500" }
+</figure>
