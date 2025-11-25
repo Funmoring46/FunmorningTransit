@@ -11,16 +11,16 @@
 ## 图片
 
 <figure markdown="span">
-  ![快线平台](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/fastline.png?raw=true){ width="500" }
+  ![快线平台](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/forest/fastline.png?raw=true){ width="500" }
   <figcaption>快线</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![村庄快线平台](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/villageexpress.png?raw=true){ width="500" }
+  ![村庄快线平台](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/forest/villageexpress.png?raw=true){ width="500" }
   <figcaption>村庄快线平台</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![轨道布局](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/tracklayout.png?raw=true){ width="500" }
+  ![轨道布局](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/forest/tracklayout.png?raw=true){ width="500" }
   <figcaption>轨道布局</figcaption>
 </figure>

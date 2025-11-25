@@ -13,16 +13,16 @@ It is named after the bamboo forest at on the exit of the station and it is also
 ## Gallery
 
 <figure markdown="span">
-  ![Fast Line Platform](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/fastline.png?raw=true){ width="500" }
+  ![Fast Line Platform](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/forest/fastline.png?raw=true){ width="500" }
   <figcaption>Fast Line Platform</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Village Express Platform](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/villageexpress.png?raw=true){ width="500" }
+  ![Village Express Platform](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/forest/villageexpress.png?raw=true){ width="500" }
   <figcaption>Village Express Platform</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Track Layout](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/tracklayout.png?raw=true){ width="500" }
+  ![Track Layout](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/forest/tracklayout.png?raw=true){ width="500" }
   <figcaption>Track Layout</figcaption>
 </figure>
