@@ -16,8 +16,8 @@ Created on the creation of the Mountains Shanlu Airport it is one of the first s
 </figure>
 
 <figure markdown="span">
-  ![Airport Entrance](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/airport_terminal_one/stationentrance.png?raw=true){ width="500" }
-  <figcaption>Airport Entrace</figcaption>
+  ![Airport Entrance](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/airport_terminal_one/airportentrance.png?raw=true){ width="500" }
+  <figcaption>Airport Entrance</figcaption>
 </figure>
 
 <figure markdown="span">
