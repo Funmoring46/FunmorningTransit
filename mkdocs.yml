@@ -63,6 +63,9 @@ plugins:
           name: 简体中文
           build: true
           site_name: "funmorning公共交通"
+          theme:
+            font:
+              text: LXGWNeoXiHei
         - locale: ja
           name: 日本語
           build: true
