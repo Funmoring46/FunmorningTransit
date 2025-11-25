@@ -2,7 +2,7 @@
 
 ![Exit A of Forest Station](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/forest/forest.png?raw=true){ width="750" }
 
-Forsst Station (Chinese: 森林站) is a station on the Fast Line and the Village Express in the Shanlu area. It was the second tranfer station to open in the server. (first is mountains)
+Forest Station (Chinese: 森林站) is a station on the Fast Line and the Village Express in the Shanlu area. It was the second tranfer station to open in the server. (first is mountains)
 
 ## History
 
