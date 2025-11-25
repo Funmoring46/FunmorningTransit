@@ -1,6 +1,6 @@
 # Forest Station
 
-Not to be confused with Lakeside Forest station.
+![Exit A of Forest Station](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/forest/forest.png?raw=true){ width="750" }
 
 No image yet
 
@@ -12,4 +12,12 @@ It is named after the bamboo forest at on the exit of the station and it is also
 
 ## Gallery
 
-No images yet.
+<figure markdown="span">
+  ![Fast Line Platform](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/fastline.png?raw=true){ width="500" }
+  <figcaption>Fast Line Platform</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Village Express Platform](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/villageexpress.png?raw=true){ width="500" }
+  <figcaption>Village Express Platform</figcaption>
+</figure>
