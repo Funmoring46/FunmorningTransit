@@ -26,11 +26,11 @@
 
 快线（funmorning地铁）：  
 - [山](mountains/)  
-- 景区  
-- 森林  
+- [景区](view/)  
+- [森林](forest/)  
 
 村庄快线（funmorning地铁）：  
-- 森林  
+- [森林](forest/)  
 - 村庄  
 
 山-木山铁路（兰纳铁路）：  

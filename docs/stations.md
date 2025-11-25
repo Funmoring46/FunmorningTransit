@@ -30,7 +30,7 @@ Fast Line (funmorning metro):
 - [Forest](view/)  
 
 Village Express (funmorning metro):  
-- Forest  
+- [Forest](view/)  
 - Village  
 
 Mountains-Kiyama Railway (Lanna Railway):  
