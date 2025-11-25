@@ -1,6 +1,6 @@
 # View Station
 
-![View Station](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/view.png?raw=true){ width="750" }
+![View Station](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/view/view.png?raw=true){ width="750" }
 
 View Station (Chinese: 景区站) is a station on the Fast Line in the Shanlu area. 
 

@@ -1,6 +1,6 @@
 # 景区站
 
-![景区站](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/view.png?raw=true){ width="750" }
+![景区站](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/view/view.png?raw=true){ width="750" }
 
 景区站（英语：View Station）是在山陆区域的快线站。
 
