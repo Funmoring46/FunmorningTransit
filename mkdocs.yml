@@ -67,6 +67,9 @@ plugins:
           name: 日本語
           build: true
           site_name: "funmorning公共交通"
+          theme:
+            font:
+              text: Murecho
 
 nav:
   - index.md
@@ -77,3 +80,6 @@ nav:
       - stations/mountains.md
       - stations/view.md
       - stations/forest.md
+
+extra_css:
+  - stylesheets/extra.css
