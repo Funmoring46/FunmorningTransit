@@ -21,3 +21,8 @@ It is named after the bamboo forest at on the exit of the station and it is also
   ![Village Express Platform](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/villageexpress.png?raw=true){ width="500" }
   <figcaption>Village Express Platform</figcaption>
 </figure>
+
+<figure markdown="span">
+  ![Track Layout](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/tracklayout.png?raw=true){ width="500" }
+  <figcaption>Track Layout</figcaption>
+</figure>
