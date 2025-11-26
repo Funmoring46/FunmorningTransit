@@ -88,7 +88,7 @@ nav:
       - stations/forest.md
       - stations/airport_terminal_one.md
   - Lines/线:
-      - lines/line_one.md
+      - lines/lineone.md
 
 extra_css:
   - stylesheets/extra.css
