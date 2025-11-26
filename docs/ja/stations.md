@@ -1,89 +1,91 @@
-# Stations and Lines
+# 駅と路線
 
-Here is the list of all the stations and lines in my transit world. They are categorized by what area they are in. Click on the station/line for more detailed explanation. (company names are in parantheses)
+このトランジットワールドにあるすべての駅と路線の一覧です。  
+エリアごとに分類されています。駅や路線名をクリックすると詳細ページに移動できます。  
+（かっこ内は運営会社名）
 
-[Line 1](../lines/lineone) (funmorning metro):  
-- [Mountains](mountains/)  
-- Lakeside Forest  
-- Crumble Mountain  
-- Thompson Road (Under Construction)  
+[1号線](../lines/lineone)（funmorningメトロ）：  
+- [山駅](mountains/)  
+- 湖畔の森  
+- 崩れ山  
+- トンプソンロード（建設中）  
 
-Line 2 (funmorning metro):  
-- Spawn  
-- [Mountains](mountains/)  
+2号線（funmorningメトロ）：  
+- スポーン  
+- [山駅](mountains/)  
 
-Line 3 (funmorning metro):  
-- Beach  
-- Oaklands  
+3号線（funmorningメトロ）：  
+- ビーチ  
+- オークランズ  
 
-Home APM (funmorning metro):  
-- [Home](home/)  
-- [Mountains](mountains/)  
+ホームAPM（funmorningメトロ）：  
+- [ホーム](home/)  
+- [山駅](mountains/)  
 
-Airport APM (funmorning metro):  
-- [Airport Terminal 1](airport_terminal_one/)  
-- [Mountains](mountains/)  
+空港APM（funmorningメトロ）：  
+- [空港ターミナル1](airport_terminal_one/)  
+- [山駅](mountains/)  
 
-Fast Line (funmorning metro):  
-- [Mountains](mountains/)  
-- [View](view/)  
-- [Forest](view/)  
+快速線（funmorningメトロ）：  
+- [山駅](mountains/)  
+- [ビュー](view/)  
+- [フォレスト](view/)  
 
-Village Express (funmorning metro):  
-- [Forest](view/)  
-- Village  
+村エクスプレス（funmorningメトロ）：  
+- [フォレスト](view/)  
+- ビレッジ  
 
-Mountains-Kiyama Railway (Lanna Railway):  
-Any station with the :material-train: icon is stopped on the Mountains Kiyama Railway Express.  
-- [Mountains](mountains/) :material-train:  
-- Shuliu  
-- Kuangzhen :material-train:  
-- Norton Forest  
-- Kiyama :material-train:  
+山–木山鉄道（ランナー鉄道）：  
+:material-train: アイコンが付いている駅は山–木山鉄道エクスプレスが停車します。  
+- [山駅](mountains/) :material-train:  
+- 樹柳  
+- 鉱鎮 :material-train:  
+- ノートンフォレスト  
+- 木山 :material-train:  
 
-Mountains-Kuangzhen East Railway (Lanna Railway):  
-- [Mountains](mountains/)  
-- Kuangzhen East  
+山–鉱鎮東鉄道（ランナー鉄道）：  
+- [山駅](mountains/)  
+- 鉱鎮東  
 
-Mountains-Sandi Railway (Lanna Railway):  
-- [Mountains](mountains/)  
-- Sandi  
+山–三地鉄道（ランナー鉄道）：  
+- [山駅](mountains/)  
+- 三地  
 
-Kuangzhen-Boston Railway (Kuangzhen Railway):  
-- Kuangzhen  
-- Boston  
+鉱鎮–ボストン鉄道（鉱鎮鉄道）：  
+- 鉱鎮  
+- ボストン  
 
-Kuangzhen East-Kuangzhen Connector (Kuangzhen Railway):  
-- Kuangzhen East  
-- Kuangzhen  
+鉱鎮東–鉱鎮連絡線（鉱鎮鉄道）：  
+- 鉱鎮東  
+- 鉱鎮  
 
-Line 1 (Kuangzhen Railway):  
-- Boston  
-- Tantem Village  
-The line then splits into two going to Jungle or Dripstone Caverns.  
+1号線（鉱鎮鉄道）：  
+- ボストン  
+- タンテム村  
+その後、路線はジャングル方面と滴石洞窟方面の2つに分岐します。  
 
-Kuangzhen Loop (Kuangzhen Boats):  
-- Two Ravines  
-- Big Hole  
-- Kuangzhen Village  
-- Kuangzhen  
+鉱鎮ループ（鉱鎮ボート）：  
+- 二つの峡谷  
+- 大穴  
+- 鉱鎮村  
+- 鉱鎮  
 
-TANTEM TEST (Kuangzhen Boats):  
-- Tantem Village  
-- Tantem Cave  
+TANTEM TEST（鉱鎮ボート）：  
+- タンテム村  
+- タンテム洞窟  
 
-Mountains-Kiyama Railway Extension (Lanna Railway Extention):  
-- Kiyama  
-- New Lush Caves  
-- Lush Caves  
+山–木山鉄道延伸線（ランナー鉄道延伸）：  
+- 木山  
+- 新繁茂した洞窟  
+- 繁茂した洞窟  
 
-Second Mountains-Kiyama Railway Extension (Lanna Railway Extention):  
-- Kiyama  
-- Kishimidō  
-- Snowveil  
+第二山–木山鉄道延伸線（ランナー鉄道延伸）：  
+- 木山  
+- 岸御堂  
+- スノーベイル  
 
-Kishimidō-Tantem Railway (Hanano Railway - Sendai Area):  
-- Kishimidō  
-- Shirin-mon  
-- Jungle  
-- (WIP) Tantem Vilage  
+岸御堂–タンテム鉄道（花野鉄道・仙台区域）：  
+- 岸御堂  
+- 森林門  
+- ジャングル  
+- （工事中）タンテム村  
