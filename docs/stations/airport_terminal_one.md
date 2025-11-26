@@ -6,7 +6,7 @@ Airport Terminal 1 Station (Chinese: 机场1航楼) is a station on the Airport 
 
 ## History
 
-Created on the creation of the Mountains Shanlu Airport it is one of the first stations to have a rail based APM in the server.
+Created on the creation of the Shanlu Airport it is one of the first stations to have a rail based APM in the server.
 
 ## Gallery
 
