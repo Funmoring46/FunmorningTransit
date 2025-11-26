@@ -1,6 +1,6 @@
 # Mountains Station
 
-![Exit A of Mountains Station](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/mountains.png?raw=true){ width="750" }
+![Exit A of Mountains Station](../assets/gallery/mountains/mountains.png){ width="750" }
 
 Mountains Station (Chinese: 山站) is a station on Line 1, Line 2, Home APM, Airport APM, Fast Line, Mountains-Kiyama Railway, Mountains-Kuangzhen East Railway, Mountains-Sandi Railway and a bus station on route 1. Located on Shanlu area, it is a very big station consisting of about 8 floors and is a major terminus for many routes. It was opened around the end of August 2025.
 
@@ -15,25 +15,25 @@ There are three exits, lettered A, B, and C. Exits C is accessible.
 ## Gallery
 
 <figure markdown="span">
-  ![Entrance A](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/entrancea.png?raw=true){ width="500" }
+  ![Entrance A](../assets/gallery/mountains/entrancea.png){ width="500" }
   <figcaption>Entrance A</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Mountains Railway Area](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/mountainsrailway.png?raw=true){ width="500" }
+  ![Mountains Railway Area](../assets/gallery/mountains/mountainsrailway.png){ width="500" }
   <figcaption>Mountains Railway Area</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Bus Station](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/busstation.png?raw=true){ width="500" }
+  ![Bus Station](../assets/gallery/mountains/busstation.png){ width="500" }
   <figcaption>Bus Station</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Business Area](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/businnessarea.png?raw=true){ width="500" }
+  ![Business Area](../assets/gallery/mountains/businnessarea.png){ width="500" }
   <figcaption>Business Area</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Mountains Station](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/fullview.png?raw=true){ width="500" }
+  ![Mountains Station](../assets/gallery/mountains/fullview.png){ width="500" }
 </figure>

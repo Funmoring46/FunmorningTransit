@@ -1,6 +1,6 @@
 # 山站
 
-![山站A出口](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/mountains.png?raw=true){ width="750" }
+![山站A出口](../../assets/gallery/mountains/mountains.png){ width="750" }
 
 山站（英语：Mountains Station）是在山陆区域的公共交通站。属于1号线、2号线、家APM、机场捷运系统、快线、山-木山铁路、山-矿镇东铁路、山-三地铁路的站。靠近铁路的公共汽车站可以让你换成公共汽车1路。本站在8月2025底开通由8层楼组成。
 
@@ -15,25 +15,25 @@
 ## 图片
 
 <figure markdown="span">
-  ![A入口](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/entrancea.png?raw=true){ width="500" }
+  ![A入口](../../assets/gallery/mountains/entrancea.png){ width="500" }
   <figcaption>A入口</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![山火车站区域](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/mountainsrailway.png?raw=true){ width="500" }
+  ![山火车站区域](../../assets/gallery/mountains/mountainsrailway.png){ width="500" }
   <figcaption>山火车站区域</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![公共汽车站](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/busstation.png?raw=true){ width="500" }
+  ![公共汽车站](../../assets/gallery/mountains/busstation.png){ width="500" }
   <figcaption>公共汽车站</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![商务区域](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/businnessarea.png?raw=true){ width="500" }
+  ![商务区域](../../assets/gallery/mountains/businnessarea.png){ width="500" }
   <figcaption>商务区域</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![山站](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/fullview.png?raw=true){ width="500" }
+  ![山站](../../assets/gallery/mountains/fullview.png){ width="500" }
 </figure>

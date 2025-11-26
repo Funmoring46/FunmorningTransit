@@ -1,6 +1,6 @@
 # 山駅
 
-![山駅 A出口](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/mountains.png?raw=true){ width="750" }
+![山駅 A出口](../../assets/gallery/mountains/mountains.png){ width="750" }
 
 山駅（英語：Mountains Station; 中国語：山站）は、1号線、2号線、Home APM、Airport APM、Fast Line、山–木山鉄道、山–広鎮東鉄道、山–三地鉄道、そして1番バス路線が乗り入れる駅です。山路エリアに位置し、約8階建ての非常に大きな駅で、多くの路線の主要な終着駅となっています。2025年8月末ごろに開業しました。
 
@@ -15,26 +15,26 @@
 ## ギャラリー
 
 <figure markdown="span">
-  ![入口A](https://github.com/Funmorning46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/entrancea.png?raw=true){ width="500" }
+  ![入口A](../../assets/gallery/mountains/entrancea.png){ width="500" }
   <figcaption>入口A</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![山鉄道エリア](https://github.com/Funmorning46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/mountainsrailway.png?raw=true){ width="500" }
+  ![山鉄道エリア](../../assets/gallery/mountains/mountainsrailway.png){ width="500" }
   <figcaption>山鉄道エリア</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![バスステーション](https://github.com/Funmorning46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/busstation.png?raw=true){ width="500" }
+  ![バスステーション](../../assets/gallery/mountains/busstation.png){ width="500" }
   <figcaption>バスステーション</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![ビジネスエリア](https://github.com/Funmorning46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/businnessarea.png?raw=true){ width="500" }
+  ![ビジネスエリア](../../assets/gallery/mountains/businnessarea.png){ width="500" }
   <figcaption>ビジネスエリア</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![山駅全景](https://github.com/Funmorning46/FunmorningTransit/blob/main/docs/assets/gallery/mountains/fullview.png?raw=true){ width="500" }
+  ![山駅全景](../../assets/gallery/mountains/fullview.png){ width="500" }
   <figcaption>山駅全景</figcaption>
 </figure>

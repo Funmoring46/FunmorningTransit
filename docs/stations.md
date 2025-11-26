@@ -2,7 +2,7 @@
 
 Here is the list of all the stations and lines in my transit world. They are categorized by what area they are in. Click on the station/line for more detailed explanation. (company names are in parantheses)
 
-Line 1 (funmorning metro):  
+[Line 1](../lines/lineone) (funmorning metro):  
 - [Mountains](mountains/)  
 - Lakeside Forest  
 - Crumble Mountain  

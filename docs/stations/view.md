@@ -1,6 +1,6 @@
 # View Station
 
-![View Station](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/view/view.png?raw=true){ width="750" }
+![View Station](../assets/gallery/view/view.png){ width="750" }
 
 View Station (Chinese: 景区站) is a station on the Fast Line in the Shanlu area. 
 
@@ -11,16 +11,16 @@ It is named after the nice hill view near on the exit of the station and it is o
 ## Gallery
 
 <figure markdown="span">
-  ![Entrance A](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/view/entrancea.png?raw=true){ width="500" }
+  ![Entrance A](../assets/gallery/view/entrancea.png){ width="500" }
   <figcaption>Entrance A</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Platform View](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/view/platforms.png?raw=true){ width="500" }
+  ![Platform View](../assets/gallery/view/platforms.png){ width="500" }
   <figcaption>Platform View</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Track Layout](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/view/tracklayout.png?raw=true){ width="500" }
+  ![Track Layout](../assets/gallery/view/tracklayout.png){ width="500" }
   <figcaption>Track Layout</figcaption>
 </figure>
