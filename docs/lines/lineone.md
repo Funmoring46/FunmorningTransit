@@ -2,10 +2,11 @@
 
 image here
 
-Line 1 (Chinese: 1号线) is a line connecting Mountains to Thompson Road. The line is not long but is kept for historic purposes. It is _______ km long and 
+Line 1 (Chinese: 1号线) is a line connecting Mountains to Thompson Road. The line is not long but is kept for historic purposes. It is _______ km long and is the first line in the server to have a rail based system.
 
-| Station      |                           |
+| Station      | Transfers                          |
 | ----------- | ------------------------------------ |
-| `GET`       | :material-check:     Fetch resource  |
-| `PUT`       | :material-check-all: Update resource |
-| `DELETE`    | :material-close:     Delete resource |
+| Mountains       | Check article.  |
+| Lakeside forest      | |
+| Crumble Mountains    |  |
+| Thompsn Road (WIP)      |           |
