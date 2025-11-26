@@ -16,8 +16,8 @@
 </figure>
 
 <figure markdown="span">
-  ![平台视图](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/view/platforms.png?raw=true){ width="500" }
-  <figcaption>平台视图</figcaption>
+  ![站台视图](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/gallery/view/platforms.png?raw=true){ width="500" }
+  <figcaption>站台视图</figcaption>
 </figure>
 
 <figure markdown="span">

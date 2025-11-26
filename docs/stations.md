@@ -17,11 +17,11 @@ Line 3 (funmorning metro):
 - Oaklands  
 
 Home APM (funmorning metro):  
-- Home  
+- [Home](home/)  
 - [Mountains](mountains/)  
 
 Airport APM (funmorning metro):  
-- Airport Terminal 1  
+- [Airport Terminal 1](airport_terminal_one/)  
 - [Mountains](mountains/)  
 
 Fast Line (funmorning metro):  
