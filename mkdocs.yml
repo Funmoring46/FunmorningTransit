@@ -81,6 +81,7 @@ nav:
   - stations.md
   - Stations/车站/駅:
       - stations/mountains.md
+      - stations/home.md
       - stations/view.md
       - stations/forest.md
       - stations/airport_terminal_one.md
