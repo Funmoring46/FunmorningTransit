@@ -4,7 +4,7 @@ Here is the list of all the stations and lines in my transit world. They are cat
 
 [Line 1](../lines/lineone) (funmorning metro):  
 - [Mountains](mountains/)  
-- Lakeside Forest  
+- [Lakeside Forest](lakesideforest/)  
 - Crumble Mountain  
 - Thompson Road (Under Construction)  
 
@@ -17,8 +17,8 @@ Line 3 (funmorning metro):
 - Oaklands  
 
 Home APM (funmorning metro):  
-- [Home](home/)  
-- [Mountains](mountains/)  
+[![Home](assets/gallery/homeapm/home.png){ width="380" }](home/)  
+[![Mountains](assets/gallery/homeapm/mountains.png){ width="380" }](mountains/)  
 
 Airport APM (funmorning metro):  
 - [Airport Terminal 1](airport_terminal_one/)  
