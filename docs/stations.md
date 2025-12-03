@@ -20,13 +20,13 @@ Line 3 (funmorning metro):
 - Beach  
 - Oaklands  
 
-Home APM (funmorning metro):  
-[![Home](assets/gallery/homeapm/home.png){ width="380" }](home/)  
-[![Mountains](assets/gallery/homeapm/mountains.png){ width="380" }](mountains/)  
-
 Airport APM (funmorning metro):  
 [![Airport Terminal 1](assets/gallery/airportapm/airportterminalone.png){ width="380" }](airport_terminal_one/)  
 [![Mountains](assets/gallery/airportapm/mountains.png){ width="380" }](mountains/)  
+
+Home APM (funmorning metro):  
+[![Home](assets/gallery/homeapm/home.png){ width="380" }](home/)  
+[![Mountains](assets/gallery/homeapm/mountains.png){ width="380" }](mountains/)  
 
 Fast Line (funmorning metro):  
 [![Forest](assets/gallery/fastline/forest.png){ width="380" }](forest/)  
