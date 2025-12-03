@@ -34,8 +34,8 @@ Fast Line (funmorning metro):
 [![Mountains](assets/gallery/fastline/mountains.png){ width="380" }](mountains/)  
 
 Village Express (funmorning metro):  
-- [Forest](view/)  
-- Village  
+[![Forest](assets/gallery/villageexpress/forest.png){ width="380" }](forest/) 
+[![Village](assets/gallery/villageexpress/village.png){ width="380" }](village/)  
 
 Mountains-Kiyama Railway (Lanna Railway):  
 Any station with the :material-train: icon is stopped on the Mountains Kiyama Railway Express.  
