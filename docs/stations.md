@@ -2,6 +2,10 @@
 
 Here is the list of all the stations and lines in my transit world. They are categorized by what area they are in. Click on the station/line for more detailed explanation. (company names are in parantheses)
 
+!!! tip "Image link"
+
+    The image links look better in light mode if you prefer
+
 [Line 1](../lines/lineone) (funmorning metro):  
 - [Mountains](mountains/)  
 - [Lakeside Forest](lakesideforest/)  
@@ -21,13 +25,13 @@ Home APM (funmorning metro):
 [![Mountains](assets/gallery/homeapm/mountains.png){ width="380" }](mountains/)  
 
 Airport APM (funmorning metro):  
-- [Airport Terminal 1](airport_terminal_one/)  
-- [Mountains](mountains/)  
+[![Airport Terminal 1](assets/gallery/airportapm/airportterminalone.png){ width="380" }](airport_terminal_one/)  
+[![Mountains](assets/gallery/airportapm/mountains.png){ width="380" }](mountains/)  
 
 Fast Line (funmorning metro):  
-- [Mountains](mountains/)  
-- [View](view/)  
-- [Forest](view/)  
+[![Forest](assets/gallery/fastline/forest.png){ width="380" }](forest/)  
+[![View](assets/gallery/fastline/view.png){ width="380" }](view/)  
+[![Mountains](assets/gallery/fastline/mountains.png){ width="380" }](mountains/)  
 
 Village Express (funmorning metro):  
 - [Forest](view/)  
