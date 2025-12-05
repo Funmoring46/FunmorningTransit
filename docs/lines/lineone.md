@@ -8,8 +8,8 @@ Line 1 (Chinese: 1号线) is a line connecting Mountains to Thompson Road. The l
 
 | Station      | Transfers                          |
 | ------------ | ---------------------------------- |
-| Mountains     | Check article.  |
-| Lakeside Forest      |          |
+| [Mountains](../stations/mountains.md)     | Check article.  |
+| [Lakeside Forest](../stations/lakesideforest.md)       |          |
 | Crumble Mountains    |             |
 | Thompson Road (WIP)      |           |
 
