@@ -7,3 +7,5 @@ Your current station should be spawn station.
   ![Map of server since Nov 24 2025](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/map.png?raw=true){ width="1000" }
   <figcaption>Map of server since Nov 24 2025</figcaption>
 </figure>
+
+For server link, installation, [wiki expansion](../expansion.md), please contact @funmorning on discord.
