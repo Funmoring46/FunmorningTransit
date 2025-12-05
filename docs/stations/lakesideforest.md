@@ -15,3 +15,7 @@ Lakeside Forest Station (Chinese: 河边森林站) is a station on Line 1 locate
   ![Concourse](../assets/gallery/lakesideforest/concourse.png){ width="500" }
   <figcaption>Concourse</figcaption>
 </figure>
+
+## Extra Info
+
+Lakeside Forest's Chinese name was mistranslated to **河**边森林站 wehn it should be **湖**边森林站 but is still kept for historical reasons
