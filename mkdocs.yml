@@ -81,6 +81,7 @@ nav:
   - howtoplay.md
   - aboutthetransp.md
   - stations.md
+  - planning.md
   - Stations/车站/駅:
       - stations/mountains.md
       - stations/lakesideforest.md
@@ -89,6 +90,8 @@ nav:
       - stations/forest.md
       - stations/village.md
       - stations/airport_terminal_one.md
+      - stations/shuliu.md
+      - stations/kuangzhen.md
   - Lines/线/線:
       - lines/lineone.md
 
