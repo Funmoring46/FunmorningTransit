@@ -10,3 +10,6 @@ Stations Shuliu, Norton Forest and Kiyama only have one singular platform. Fixin
 
 Opening of Thompson Road
 
+## Forest Station Cleanup
+
+Transfer and safety is not incorporated in the station.
