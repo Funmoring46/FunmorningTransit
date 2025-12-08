@@ -1,4 +1,4 @@
-# Shuliu
+# Shuliu Station
 
 ![Entrance A of Shuliu Station](../assets/gallery/shuliu/shuliu.png){ width="750" }
 

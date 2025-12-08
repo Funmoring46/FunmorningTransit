@@ -1,4 +1,4 @@
-# Kuangzhen
+# Kuangzhen Station
 
 ![Entrance A of Kuangzhen Station](../assets/gallery/kuangzhen/kuangzhen.png){ width="750" }
 
@@ -6,7 +6,7 @@ Kuangzhen Station (Chinese: 矿镇站) is a station on Mountains-Kiyama Railway,
 
 ## History
 
-Named after the village nearby, it had many renovations until is was partially completed around the middle of September.
+Named after the village nearby, it had many renovations until the first floor was completed around the middle of September.
 
 ## Gallery
 

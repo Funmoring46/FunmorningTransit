@@ -84,14 +84,16 @@ nav:
   - planning.md
   - Stations/车站/駅:
       - stations/mountains.md
-      - stations/lakesideforest.md
       - stations/home.md
       - stations/view.md
       - stations/forest.md
       - stations/village.md
+      - stations/lakesideforest.md
       - stations/airport_terminal_one.md
       - stations/shuliu.md
       - stations/kuangzhen.md
+      - stations/norton_forest.md
+      - stations/kiyama.md
   - Lines/线/線:
       - lines/lineone.md
 

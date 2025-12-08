@@ -8,4 +8,4 @@ Your current station should be spawn station.
   <figcaption>Map of server since Nov 24 2025</figcaption>
 </figure>
 
-For server link, installation, [wiki expansion](../expansion.md), please contact @funmorning on discord.
+For server link, installation, [wiki expansion](expansion/), please contact @funmorning on discord.
