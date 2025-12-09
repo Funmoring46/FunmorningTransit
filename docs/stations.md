@@ -9,8 +9,8 @@ Here is the list of all the stations and lines in my transit world. They are cat
 [Line 1](../lines/lineone) (funmorning metro):  
 - [Mountains](mountains/)  
 - [Lakeside Forest](lakesideforest/)  
-- Crumble Mountain  
-- Thompson Road (Under Construction)  
+- [Crumble Mountain](crumble_mountain/)  
+- [Thompson Road](thompson_road/) (Under Construction)  
 
 Line 2 (funmorning metro):  
 - Spawn  
