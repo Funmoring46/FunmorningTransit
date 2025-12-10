@@ -6,7 +6,7 @@ Kiyama Station (Japanese: 木山駅; Chinese: 木山站) is a station on Mountai
 
 ## History
 
-On the opening date it had no exit or entrance and served as a small transfer station to Shōnyūdō (鍾乳洞) and you could wait to get a ride on the Mountains-Kiyama Railway Extension, but the line to Shōnyūdō closed due to the station and line being too short and unnecessary. On November 3, 2025, Kiyama Station was split into two and required passports to enter Hanano.
+On the opening date it had no exit or entrance and served as a small transfer station to the Dōkutsu Line (洞窟線) and you could wait to get a ride on the Mountains-Kiyama Railway Extension, but the Dōkutsu Line was too short and unnecessary so it was laater removed and deprecated. On November 3, 2025, Kiyama Station was split into two and required passports to enter Hanano.
 
 ### Kiyama Split
 
