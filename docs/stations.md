@@ -17,8 +17,8 @@ Line 2 (funmorning metro):
 - [Mountains](mountains/)  
 
 Line 3 (funmorning metro):  
-- Beach  
-- Oaklands  
+- [Beach](beach/)  
+- [Oaklands](oaklands/)  
 
 Airport APM (funmorning metro):  
 [![Airport Terminal 1](assets/gallery/airportapm/airportterminalone.png){ width="380" }](airport_terminal_one/)  

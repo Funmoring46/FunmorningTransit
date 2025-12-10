@@ -2,7 +2,7 @@
 
 ![Entrance A of Shuliu Station](../assets/gallery/shuliu/shuliu.png){ width="750" }
 
-Shuliu Station (Chinese: 树榴站) is a station on Mountains-Kiyama Railway in the Shanlu area. It was opened on September 2025.
+Shuliu Station (Chinese: 树榴站) is a station on Mountains-Kiyama Railway in the Shanlu area. It was opened around September 2025.
 
 ## History
 
