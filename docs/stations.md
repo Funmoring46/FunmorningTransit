@@ -13,7 +13,7 @@ Here is the list of all the stations and lines in my transit world. They are cat
 - [Thompson Road](thompson_road/) (Under Construction)  
 
 Line 2 (funmorning metro):  
-- Spawn  
+- [Spawn](spawn/)  
 - [Mountains](mountains/)  
 
 Line 3 (funmorning metro):  
@@ -54,12 +54,12 @@ Mountains-Sandi Railway (Lanna Railway):
 - Sandi  
 
 Kuangzhen-Boston Railway (Kuangzhen Railway):  
-- Kuangzhen  
+- [Kuangzhen](kuangzhen/)  
 - Boston  
 
 Kuangzhen East-Kuangzhen Connector (Kuangzhen Railway):  
 - Kuangzhen East  
-- Kuangzhen  
+- [Kuangzhen](kuangzhen/)  
 
 Line 1 (Kuangzhen Railway):  
 - Boston  
@@ -70,19 +70,19 @@ Kuangzhen Loop (Kuangzhen Boats):
 - Two Ravines  
 - Big Hole  
 - Kuangzhen Village  
-- Kuangzhen  
+- [Kuangzhen](kuangzhen/)  
 
 TANTEM TEST (Kuangzhen Boats):  
 - Tantem Village  
 - Tantem Cave  
 
 Mountains-Kiyama Railway Extension (Lanna Railway Extention):  
-- Kiyama  
+- [Kiyama](kiyama/)  
 - New Lush Caves  
 - Lush Caves  
 
 Second Mountains-Kiyama Railway Extension (Lanna Railway Extention):  
-- Kiyama  
+- [Kiyama](kiyama/)  
 - Kishimidō  
 - Snowveil  
 
@@ -90,4 +90,4 @@ Kishimidō-Tantem Railway (Hanano Railway - Sendai Area):
 - Kishimidō  
 - Shirin-mon  
 - Jungle  
-- (WIP) Tantem Vilage  
+- Tantem Village (contruction not started)  

@@ -1,4 +1,4 @@
-# Lakeside Forest
+# Lakeside Forest Station
 
 ![Lakeside Forest](../assets/gallery/lakesideforest/lakesideforest.png){ width="750" }
 
