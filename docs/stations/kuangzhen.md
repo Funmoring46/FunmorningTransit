@@ -2,7 +2,7 @@
 
 ![Entrance A of Kuangzhen Station](../assets/gallery/kuangzhen/kuangzhen.png){ width="750" }
 
-Kuangzhen Station (Chinese: 矿镇站) is a station on Mountains-Kiyama Railway, Kuangbo Line, Kuangzhen Loop, and the Kuangzhen East-Kuangzhen Connector Line. It is around the 3rd biggest station in the server and is in the Kuangzhen area. It was opened around September 2025. It uses a side platform for the Mountains-Kiyama Railway.
+Kuangzhen Station (Chinese: 矿镇站) is a station on the Mountains-Kiyama Railway, Kuangbo Line, Kuangzhen Loop, and the Kuangzhen East-Kuangzhen Connector Line. It is around the 3rd biggest station in the server and is in the Kuangzhen area. It was opened around September 2025. It uses a side platform for the Mountains-Kiyama Railway.
 
 ## History
 
