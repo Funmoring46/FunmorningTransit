@@ -2,7 +2,7 @@
 
 ![Exit A of Airport Terminal 1 Station](../assets/gallery/airport_terminal_one/stationentrance.png){ width="750" }
 
-Airport Terminal 1 Station (Chinese: 机场1航楼) is a station on the Airport APM in the Shanlu area. It was created for the purpose of connecting [Mountains Station](https://funmoring46.github.io/FunmorningTransit/stations/mountains/) to the new airport. It was opened around the start of September 2025.
+Airport Terminal 1 Station (Chinese: 机场1航楼站) is a station on the Airport APM in the Shanlu area. It was created for the purpose of connecting [Mountains Station](https://funmoring46.github.io/FunmorningTransit/stations/mountains/) to the new airport. It was opened around the start of September 2025.
 
 ## History
 

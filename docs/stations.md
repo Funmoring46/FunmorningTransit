@@ -47,7 +47,7 @@ Any station with the :material-train: icon is stopped on the Mountains Kiyama Ra
 
 Mountains-Kuangzhen East Railway (Lanna Railway):  
 - [Mountains](mountains/)  
-- Kuangzhen East  
+- [Kuangzhen East](kuangzhen_east/)  
 
 Mountains-Sandi Railway (Lanna Railway):  
 - [Mountains](mountains/)  
