@@ -51,18 +51,18 @@ Mountains-Kuangzhen East Railway (Lanna Railway):
 
 Mountains-Sandi Railway (Lanna Railway):  
 - [Mountains](mountains/)  
-- Sandi  
+- [Sandi](sandi/)  
 
 Kuangzhen-Boston Railway (Kuangzhen Railway):  
 - [Kuangzhen](kuangzhen/)  
-- Boston  
+- [Boston](boston/)  
 
 Kuangzhen East-Kuangzhen Connector (Kuangzhen Railway):  
-- Kuangzhen East  
+- [Kuangzhen East](kuangzhen_east/)  
 - [Kuangzhen](kuangzhen/)  
 
 Line 1 (Kuangzhen Railway):  
-- Boston  
+- [Boston](boston/)  
 - Tantem Village  
 The line then splits into two going to Jungle or Dripstone Caverns.  
 
