@@ -1,6 +1,6 @@
 # Village Station
 
-![View Station](../assets/gallery/village/village.png){ width="750" }
+![Village Station](../assets/gallery/village/village.png){ width="750" }
 
 Village Station (Chinese: 村庄站) is a station on the Village Express Line located in the Shanlu area. It was opened around late August 2025.
 

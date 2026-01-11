@@ -2,7 +2,7 @@
 
 ![Boston Station](../assets/gallery/boston/boston.png){ width="750" }
 
-Boston Station (Chinese: 波斯顿站) is a station on the Fast Line in the Kuangzhen area. 
+Boston Station (Chinese: 波斯顿站) is a station on Line 1 and the Kuangzhen-Boston Railway in the Kuangzhen area. 
 
 ## History
 
