@@ -77,7 +77,7 @@ Line 1 (Kuangzhen Railway):
   
 - [Boston](boston/)  
 - [Tantem Village](tantem_village/)  
-The line then splits into two going to [Jungle](jungle/) or Dripstone Caverns.  
+The line then splits into two going to [Jungle](jungle/) or [Dripstone Caverns](dripstone_caverns/).  
 
 Kuangzhen Loop (Kuangzhen Boats):  
   
