@@ -79,11 +79,11 @@ Line 1 (Kuangzhen Railway):
 - [Tantem Village](tantem_village/)  
 The line then splits into two going to [Jungle](jungle/) or [Dripstone Caverns](dripstone_caverns/).  
 
-Kuangzhen Loop (Kuangzhen Boats):  
+Kuangzhen Loop (Kuangzhen Boats):
   
-- Two Ravines  
-- Big Hole  
-- Kuangzhen Village  
+- [Two Ravines](two_ravines/)  
+- [Big Hole](big_hole/)  
+- [Kuangzhen Village](kuangzhen_village/)  
 - [Kuangzhen](kuangzhen/)  
 
 TANTEM TEST (Kuangzhen Boats):  
