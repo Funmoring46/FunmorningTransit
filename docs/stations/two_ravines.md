@@ -2,7 +2,7 @@
 
 ![Two Ravines Station](../assets/gallery/two_ravines/two_ravines.png){ width="750" }
 
-Two Ravines Station (Chinese: 两峡谷站) is a station on the Kuangzhen Loop in the Kuangzhen area. 
+Two Ravines Station (Chinese: 两峡谷站) is a station on the Kuangzhen Loop in the Kuangzhen area. It was opened around October 2025.
 
 ## Gallery
 

@@ -2,7 +2,7 @@
 
 ![View Station](../assets/gallery/view/view.png){ width="750" }
 
-View Station (Chinese: 景区站) is a station on the Fast Line in the Shanlu area. 
+View Station (Chinese: 景区站) is a station on the Fast Line in the Shanlu area.
 
 ## History
 
