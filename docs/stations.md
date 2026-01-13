@@ -100,8 +100,8 @@ Mountains-Kiyama Railway Extension (Lanna Railway Extention):
 Second Mountains-Kiyama Railway Extension (Lanna Railway Extention):  
   
 - [Kiyama](kiyama/)  
-- Kishimidō  
-- Snowveil  
+- [Kishimidō](kishimido/)  
+- [Snowveil](snowveil/)  
 
 Vine Line:  
   
@@ -110,7 +110,7 @@ Vine Line:
 
 Kishimidō-Tantem Railway (Hanano Railway - Sendai Area):  
   
-- Kishimidō  
-- Shirin-mon  
+- [Kishimidō](kishimido/)  
+- [Shirin-mon](shirinmon/)  
 - [Jungle](jungle/)  
 - [Tantem Village](tantem_village/) (contruction not started)  
