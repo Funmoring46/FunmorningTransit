@@ -2,7 +2,7 @@
 
 ![New Lush Caves Station](../assets/gallery/new_lush_caves/new_lush_caves.png){ width="750" }
 
-New Lush Caves Station (Japanese: 新繁茂した洞窟駅; Chinese: 新繁茂洞穴站) is a station on the Mountains-Kiyama Railway Extension Line. It was opened around September 2025. It uses a side platform for the Mountains-Kiyama Railway.
+New Lush Caves Station (Japanese: 新繁茂した洞窟駅; Chinese: 新繁茂洞穴站) is a station on the Mountains-Kiyama Railway Extension Line. It is in the Sendai area.
 
 ## Dock
 
