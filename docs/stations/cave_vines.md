@@ -1,6 +1,6 @@
 # Cave Vines Station
 
-![Cave Vines Station](../assets/gallery/cave_vines/dripstone_caverns.png){ width="750" }
+![Cave Vines Station](../assets/gallery/cave_vines/cave_vines.png){ width="750" }
 
 Cave Vines Station is a station on the Vine Line located in the Sendai area.
 
