@@ -4,8 +4,15 @@ This short website/tutorial will show you an introduction of what this “transi
 Your current station should be spawn station.
 
 <figure markdown="span">
-  ![Map of server since Nov 24 2025](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/map.png?raw=true){ width="1000" }
-  <figcaption>Map of server since Nov 24 2025</figcaption>
+  ![Map of server since January 12, 2026](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/map/Jan-12-2026.png?raw=true){ width="1000" }
+  <figcaption>Map of server since January 12, 2026</figcaption>
 </figure>
+
+<figure markdown="span">
+  ![Map of server since January 12, 2026](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/map/bus/Jan-12-2026.png?raw=true){ width="1000" }
+  <figcaption>Bus map of server since January 12, 2026</figcaption>
+</figure>
+
+*Maps are not to scale.*
 
 For server link, installation, [wiki expansion](expansion/), please contact @funmorning on discord.
