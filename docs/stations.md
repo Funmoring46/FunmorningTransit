@@ -95,7 +95,7 @@ Mountains-Kiyama Railway Extension (Lanna Railway Extention):
   
 - [Kiyama](kiyama/)  
 - [New Lush Caves](new_lush_caves/)  
-- Lush Caves  
+- [Lush Caves](lush_caves/)  
 
 Second Mountains-Kiyama Railway Extension (Lanna Railway Extention):  
   
@@ -106,7 +106,7 @@ Second Mountains-Kiyama Railway Extension (Lanna Railway Extention):
 Vine Line:  
   
 - [New Lush Caves Dock](new_lush_caves/)
-- Cave Vines
+- [Cave Vines](cave_vines/)
 
 Kishimidō-Tantem Railway (Hanano Railway - Sendai Area):  
   
