@@ -10,7 +10,7 @@ theme:
     - scheme: slate
       toggle:
         icon: material/weather-sunny
-        name: Dark mode
+        name: Light mode
       primary: orange
       accent: yellow
 
@@ -18,7 +18,7 @@ theme:
     - scheme: default
       toggle:
         icon: material/weather-night
-        name: Light mode
+        name: Dark mode
       primary: amber
       accent: orange
   features:
@@ -57,21 +57,21 @@ plugins:
           default: true
           name: English
           build: true
-          site_name: "Funmorning Transit"
+          site_name: "Funmorning Transit Wiki"
           theme:
             font:
               text: Rubik
         - locale: zh
           name: 简体中文
           build: true
-          site_name: "funmorning公共交通"
+          site_name: "funmorning公共交通维基"
           theme:
             font:
               text: LXGWNeoXiHei
         - locale: ja
           name: 日本語
           build: true
-          site_name: "funmorning公共交通"
+          site_name: "funmorning公共交通ウィキ"
           theme:
             font:
               text: Murecho
