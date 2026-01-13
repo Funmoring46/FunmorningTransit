@@ -81,7 +81,7 @@ TANTEM TEST（鉱鎮ボート）：
 
 第二山–木山鉄道延伸線（ランナー鉄道延伸）：  
 - 木山  
-- 岸御堂  
+- 軋道  
 - スノーベイル  
 
 Vine Line:  
@@ -90,7 +90,12 @@ Vine Line:
 - Cave Vines
 
 岸御堂–タンテム鉄道（花野鉄道・仙台区域）：  
-- 岸御堂  
+- 軋道  
 - 森林門  
 - ジャングル  
 - （工事中）タンテム村  
+
+Mineshaft Line (Hanano Railway - Sendai Area):  
+   
+- 軋道  
+- Pillager Outpost  

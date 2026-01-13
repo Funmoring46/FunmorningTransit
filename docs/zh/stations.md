@@ -92,3 +92,8 @@ Vine Line:
 - 森林門  
 - 丛林  
 - (WIP) 坛腾村
+
+Mineshaft Line (Hanano Railway - Sendai Area):  
+   
+- 轧道  
+- Pillager Outpost  

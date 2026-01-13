@@ -114,3 +114,8 @@ Kishimidō-Tantem Railway (Hanano Railway - Sendai Area):
 - [Shirin-mon](shirinmon/)  
 - [Jungle](jungle/)  
 - [Tantem Village](tantem_village/) (contruction not started)  
+
+Mineshaft Line (Hanano Railway - Sendai Area):  
+   
+- [Kishimidō](kishimido/)  
+- [Pillager Outpost](pillager_outpost/)  
