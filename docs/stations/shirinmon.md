@@ -4,4 +4,11 @@
 
 Shirin-mon Station (Japanese: 森林門駅) is a station on Line 3 in the Sendai area.
 
+## Gallery
+
+<figure markdown="span">
+	![Platform](../assets/gallery/shirinmon/platform.png){ width="750" }
+	<figcaption>Platform</figcaption>
+</figure>
+
 *This article about a train station in Sendai needs more info. You can help expand it by clicking [here](../expansion.md).*
