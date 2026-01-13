@@ -1,6 +1,6 @@
 # Kishimidō Station
 
-![Kishimidō Station](../assets/gallery/kiyama/kiyama.png){ width="750" }
+![Kishimidō Station](../assets/gallery/kishimido/kishimido.png){ width="750" }
 
 Kishimidō Station (Japanese: 軋道駅; Chinese: 轧道站) is a station on the Second Mountains-Kiyama Railway Extension, Kishimidō-Tantem Line, and the Mineshaft Line. It is in Sendai area and was fully completed on the first week of November 2025.
 
