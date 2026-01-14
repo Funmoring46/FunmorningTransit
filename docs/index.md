@@ -4,8 +4,8 @@ This short website/tutorial will show you an introduction of what this “transi
 Your current station should be spawn station.
 
 <figure markdown="span">
-  ![Map of server since January 12, 2026](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/map/Jan-12-2026.png?raw=true){ width="1000" }
-  <figcaption>Map of server since January 12, 2026</figcaption>
+  ![Map of server since January 13, 2026](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/map/Jan-13-2026.png?raw=true){ width="1000" }
+  <figcaption>Map of server since January 13, 2026</figcaption>
 </figure>
 
 <figure markdown="span">
