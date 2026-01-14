@@ -13,6 +13,6 @@ Your current station should be spawn station.
   <figcaption>Bus map of server since January 13, 2026</figcaption>
 </figure>
 
-*Maps are not to scale. Maps are created on [Rail Map Generator](https://railmapgen.github.io/?app=rmp)*
+*Maps are not to scale. Maps are created on [Rail Map Painter](https://railmapgen.github.io/?app=rmp)*
 
 For server link, installation, [wiki expansion](expansion/), please contact @funmorning on discord.
