@@ -8,4 +8,4 @@ Beach Station (Chinese: 沙滩站) is a station on Line 3 in the Shanlu area. It
 
 Named after all the beach around the area, it was created for the test of small stations in funmorning transit.
 
-*This article about a train station in Sendai needs more info. You can help expand it by clicking [here](../expansion.md).*
+*This article about a train station in Shanlu needs more info. You can help expand it by clicking [here](../expansion.md).*

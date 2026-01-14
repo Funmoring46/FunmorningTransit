@@ -2,7 +2,7 @@
 
 ![Shirin-mon Station](../assets/gallery/shirinmon/shirinmon.png){ width="750" }
 
-Shirin-mon Station (Japanese: 森林門駅) is a station on Line 3 in the Sendai area.
+Shirin-mon Station (Japanese: 森林門駅) is a station on the Kishimidō-Tantem Line in the Sendai area.
 
 ## Gallery
 

@@ -98,4 +98,4 @@ Vine Line:
 Mineshaft Line (Hanano Railway - Sendai Area):  
    
 - 軋道  
-- Pillager Outpost  
+- ピリジャーの前哨基地  
