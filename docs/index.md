@@ -9,8 +9,8 @@ Your current station should be spawn station.
 </figure>
 
 <figure markdown="span">
-  ![Bus map of server since January 14, 2026](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/map/bus/Jan-14-2026.png?raw=true){ width="1000" }
-  <figcaption>Bus map of server since January 14, 2026</figcaption>
+  ![Bus map of server since January 15, 2026](https://github.com/Funmoring46/FunmorningTransit/blob/main/docs/assets/map/bus/Jan-15-2026.png?raw=true){ width="1000" }
+  <figcaption>Bus map of server since January 15, 2026</figcaption>
 </figure>
 
 *Maps are not to scale. Maps are created on [Rail Map Painter](https://railmapgen.github.io/?app=rmp)*
