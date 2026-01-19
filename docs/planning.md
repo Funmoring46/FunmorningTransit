@@ -13,3 +13,5 @@ Opening of Thompson Road
 ## Forest Station Cleanup
 
 Transfer and safety is not incorporated in the station.
+
+For proposals message me on discord.
