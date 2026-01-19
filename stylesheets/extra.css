@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "LXGWNeoXiHei";
+  src: url("../font/LXGWNeoXiHei.woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Apply LXGWNeoXiHei font for Chinese language */
+html[lang="zh"] {
+  --md-text-font: "LXGWNeoXiHei";
+}
