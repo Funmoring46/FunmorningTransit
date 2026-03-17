@@ -8,7 +8,8 @@ Stations Shuliu, Norton Forest and Kiyama only have one singular platform. Fixin
 
 ## Thompson Road
 
-Opening of Thompson Road
+--Opening of Thompson Road--
+RAILWAY PORTED ON MAR 17 2026 (CHINA TIME). EXITS ARE NOT BUILT YET.
 
 ## Forest Station Cleanup
 
