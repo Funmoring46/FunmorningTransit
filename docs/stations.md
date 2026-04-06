@@ -119,3 +119,7 @@ Mineshaft Line (Hanano Railway - Sendai Area):
    
 - [Kishimidō](kishimido/)  
 - [Pillager Outpost](pillager_outpost/)  
+
+!!! question
+    The Mountains-Liantuo Proper Railway is currently being built so there are currently not a lot of info for it.
+    Stations open on the Railway are, Mountains and Tuolun Jungle.

@@ -13,6 +13,10 @@ Small summary of each of them:
 **kuangzhen boats**: takes care of the kuanggzhen loop and tantem test.
 
 **Hanano railway (Sendai area)**: takes care of the mountains kiyama railway extension, mountains kiyama second railway extension, and the shoyondo-tantem railway
+ 
+!!! note
+
+    Hanano railway may be renamed to Sendai railway due to us removing the hanano area and merging it to sendai.
 
 ---
 
