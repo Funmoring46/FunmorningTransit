@@ -16,3 +16,5 @@ Your current station should be spawn station.
 *Maps are not to scale. Maps are created on [Rail Map Painter](https://railmapgen.github.io/?app=rmp)*
 
 For server link, installation, [wiki expansion](expansion/), please contact @funmorning on discord.
+
+For the railway in the second 新rehabilitation survival server, use the 新rehabilitation section on the sidebar or [click here](newrehab/index.md) for the 新rehabilitation index.
