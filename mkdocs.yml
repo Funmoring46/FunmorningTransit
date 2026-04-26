@@ -122,6 +122,8 @@ nav:
           - stations/bus/mountains.md
   - Lines/线/線:
       - lines/lineone.md
+  - 新rehabilitation:
+      - newrehab/index.md
 
 extra_css:
   - stylesheets/extra.css
