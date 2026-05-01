@@ -8,6 +8,7 @@ theme:
   palette:
     # Dark Mode
     - scheme: slate
+      logo: assets/logo_white.png
       toggle:
         icon: material/weather-sunny
         name: Light mode
@@ -16,6 +17,7 @@ theme:
 
     # Light Mode
     - scheme: default
+      logo: assets/logo.png
       toggle:
         icon: material/weather-night
         name: Dark mode
