@@ -9,7 +9,8 @@ Here is where you will find plans/proposals for the transport server
 
 ## Mountains-Kiyama Railway Platform Project
 
-Stations Shuliu, Norton Forest and Kiyama only have one singular platform. Fixing this would be able to have more trains on the railway for faster railway times.
+~~Stations Shuliu, Norton Forest and Kiyama only have one singular platform. Fixing this would be able to have more trains on the railway for faster railway times.~~
+**RAILWAY PORTED ON MAY 11 2036 (CANADA TIME). CREATED FIR THE CARRER ED. PASSION PROJECT.**
 
 ## Thompson Road
 
