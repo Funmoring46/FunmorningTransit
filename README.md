@@ -1,7 +1,8 @@
+# Updates will not happen as I have decided to currently not make this website public for now as changing the markdown files takes too long for me. This website will come back with updates in a later time.
+
 # funmorning transit  
 
 Simple wiki-type website for my Minecraft server  
-
 
 credit:  
 mkdocs-material: https://github.com/squidfunk/mkdocs-material  
