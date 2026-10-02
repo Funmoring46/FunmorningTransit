@@ -1,4 +1,5 @@
-# Updates will not happen as I have decided to currently not make this website public for now as changing the markdown files takes too long for me. This website will come back with updates in a later time.
+# Please move to https://funmorningtransit.miraheze.org/ for an updated version.
+
 
 # funmorning transit  
 
